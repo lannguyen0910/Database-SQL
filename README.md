@@ -1,2 +1,2 @@
 # Database-SQL
-My progress in learning SQL with problems on Leetcode and Hackerrank
+My progress in revision after learning SQL (1 year ago) with problems on Leetcode and Hackerrank
